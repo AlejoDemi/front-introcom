@@ -1,13 +1,8 @@
-import './App.css';
-import {Chart} from "./components/Chart";
+import Home from "./components/screens/Home";
 
 function App() {
-  return (
-      <>
-        <Chart></Chart>
-      </>
-
-
+  return(
+      <Home></Home>
   );
 }
 
