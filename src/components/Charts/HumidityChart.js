@@ -20,7 +20,7 @@ export  const HumidityChart =()=> {
          },[])
 
     return(
-        <div style={{backgroundColor:"white",border:"1px solid black",borderRadius:"20px",cursor:"help",padding:"10px",marginBottom:"20px"}}>
+        <div style={{backgroundColor:"white",border:"1px solid black",borderRadius:"20px",padding:"10px",marginBottom:"20px"}}>
             <Humidity value={value} />
         </div>
     )

@@ -20,7 +20,7 @@ export  const TemperatureChart =()=> {
          },[])
 
     return(
-        <div style={{backgroundColor:"white",border:"1px solid black",borderRadius:"20px",cursor:"help",padding:"10px"}}>
+        <div style={{backgroundColor:"white",border:"1px solid black",borderRadius:"20px",padding:"10px"}}>
             <Temperature value={value}/>
         </div>
     )
