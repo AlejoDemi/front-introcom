@@ -1,0 +1,11 @@
+.home-container{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    align-content: space-between;
+    align-items: center;
+    background-blend-mode: hue;
+    background-image: url("https://fondosmil.com/fondo/33595.jpg");
+}
+
